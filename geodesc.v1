@@ -1,0 +1,3233 @@
+ 
+# GEODESC - Vocabulário Controlado em Geociências, agsb@ 2025  
+ 
+TA Agronomia 
+ 
+DS DSConjunto das ciências e dos princípios que regem a prática da agricultura (Ferreira, 1975, p.53). 
+ 
+TR Usos do Solo 
+TR Irrigação 
+ 
+TA Alteração 
+ 
+DS a) mudança na composição mineralógica de uma rocha, causada por meios físicos ou químicos, especialmente pela ação de soluções hidrotermais; troca secundária, isto é, superergênica, na rocha ou no mineral. A alteração é considerada às vezes, como uma fase do metamorfismo, mas, geralmente diferenciada deste, por ser mais suave e mais localizada do que o metamorfismo; 
+ 
+DS b) normalmente considerada como mudança na composição química e mineralógica de uma rocha, produzida pelo intemperismo (Bates e Jackson, 1987,p.19). 
+ 
+TR Bauxitização 
+TR Caulinização 
+TR Intemperismo 
+TR Laterita 
+TR Laterização 
+TR Processos Hidrotermais 
+TR Serpentinização 
+
+TA Antropologia 
+ 
+DS Estudo das inter-relações dos aspectos biológicos, culturais, geográficos e históricos da humanidade (Parker, 1989, p.101). 
+ 
+TR Sambaquis 
+ 
+TA Beneficiamento 
+ 
+DS Melhoramento das propriedades químicas ou físicas de um minério para que o metal possa ser aproveitado economicamente (Parker, 1989, p.203). 
+ 
+DS UP Beneficiamento de Minérios 
+ 
+TA Biologia 
+ 
+DS Estudo dos seres vivos como um todo, sem particularização animal ou vegetal; estudo das leis gerais da vida; estudo das características gerais dos seres vivos (Ferreira, 1975, p. 207). 
+ 
+TA Cartografia 
+ 
+DS Produção de mapas e cartas, com o propósito de visualizar as distribuições espaciais sobre várias áreas da terra (Parker, 1989, p.302). 
+ 
+TR Cartas 
+TR Cartografia Digital 
+TR Mapa Ambiental 
+TR Mapa Geotécnico 
+TR Mapa Previsional 
+TR Mapa Índice 
+TR Mapas 
+ 
+TA Cristalografia 
+ 
+DS Estudo de cristais, incluindo seu crescimento, estrutura, propriedades físicas e classificações pela forma (DANA, 1944, p.4). 
+ 
+TA Ecologia 
+ 
+DS Estudo das relações entre organismos e seus ambientes, incluindo o estudo das comunidades, padrões de vida, ciclos naturais, inter-relações entre os organismos, biogeografia e mudanças populacionais (Bates and Jackson, 1987, p.206). 
+ 
+TR Biodiversidade 
+TR Desertificação 
+TR Ecossistema 
+TR Ecoturismo 
+TR Efeito Estufa 
+TR Fitogeografia 
+TR Áreas de Risco 
+ 
+TA Economia Mineral 
+ 
+DS Estudo e aplicação dos processos usados em gerenciamento e financiamento ligados com o descobrimento, extração e marketing de minerais (Parker, 1989, p.1206). 
+ 
+TR Estatística Mineral 
+TR Investimentos 
+TR Legislação Mineira 
+TR Política Mineral 
+TR Viabilidade Econômica 
+TR Viabilidade de Pesquisa 
+ 
+TA Energia Nuclear 
+ 
+DS É aquela produzida nas reações nucleares, especialmente nas de fissão nuclear, e se origina da transformação de parte da massa das partículas e núcleos regentes em energia (Ferreira, 1975, p.527). 
+ 
+TR Minerais Radioativos 
+TR Radioatividade 
+ 
+TA Engenharia de Minas 
+ 
+DS Ciência que envolve toda a tecnologia mineral, desde a prospecção (procura de depósito), passando pela exploração (estudo detalhado dos depósitos) e lavra (planejamento de mina e extração) até o beneficiamento (processamento, separação e/ou concentração do material extraído, para adequá-lo às especificações de mercado). É responsável, também, por todas as atividades que envolvem água subterrânea, além de atuar na área de geotecnia e de meio ambiente. Realiza perícias técnicas, fiscaliza projetos de mineração, na pesquisa e desenvolvimento de produção, processos e equipamentos de mineração (Rv. Univ. Fed. MG, 2004). 
+ 
+TR Controle Ambiental 
+TR Geomecânica 
+TR Higiene de Minas 
+TR Mineração 
+TR Processamento Mineral 
+TR Segurança 
+TR Teores 
+ 
+TA Espectrografia 
+ 
+DS Conjunto de técnicas de análise baseada na obtenção e estudo de fotografias dos espectros de emissão de substâncias (Ferreira, 1975, p.56). 
+ 
+TA Espectrometria 
+ 
+Técnica de análise qualitativa e quantitativa baseada na obtenção e estudo de do espectro de emissão de substâncias (Ferreira, 1975, p.566). 
+ 
+TA Espeleologia 
+ 
+DS Estudo e exploração das formas naturais de solo, como grutas, sumidouros, fontes, etc (Brigadão, 1992, p.92). 
+ 
+TR Carst 
+ 
+TA Estratigrafia 
+ 
+DS Ramo da Geologia que lida com a forma, arranjo, distribuição geográfica, sucessão geológica, classificação, correlação e as relações mutuais das camadas de rochas, especialmente sedimentares (Parker, 1989, p.1834). 
+ 
+TR Aloestratigrafia 
+TR Análise Estratigráfica 
+TR Bioestratigrafia 
+TR Cronoestratigrafia 
+TR Cronologia 
+TR Litoestratigrafia 
+TR Magnetoestratigrafia 
+TR Mapa Estratigrafico 
+TR Sismoestratigrafia 
+TR Tectonoestratigrafia 
+ 
+TA Extração Mineral 
+ 
+DS Pode ser definida como um esforço, com risco de capital, para se descobrir e aproveitar, com lucro, um recurso natural, geralmente difícil de ser encontrado e de natureza não renovável. Os trabalhos e as investigações necessárias à descoberta e a caracterização de um novo depósito mineral, assim como a lavra do minério e suas implicações ambientais, são atividades que fazem uso da geologia como ferramenta para a otimização do lucro e aumento da efetividade de natureza não renovável (Etchebehere, 1995, p.2). 
+ 
+TR Bateamento 
+TR Concheiro 
+TR Ganga 
+TR Garimpo 
+TR Lavra 
+TR Minas 
+TR Mineração 
+TR Prospecção 
+ 
+TA Física 
+ 
+DS Ciência de conteúdo vasto e fronteiras não muito definidas, que investiga as propriedades dos campos, as interações entre os campos de forças e os meios materiais, as propriedades e a estrutura dos sistemas materiais, e as leis fundamentais do comportamento dos campos e dos sistemas materiais (Ferreira, 1975, p.631). 
+ 
+TA Fotogrametria 
+ 
+DS Ciência que faz medições acuradas e mapas de fotografias aéreas (Parker, 1989, p.1418). 
+ 
+TR Aerofotogrametria 
+TR Fotogeologia 
+TR Fotointerpretação 
+ 
+TA Gemologia 
+ 
+DS Ciência que estuda a identificação e classificação das substâncias gemológicas (Branco, 1992, p.90). 
+ 
+TR Afrisita 
+TR Ágata 
+TR Água-Marinha 
+TR Âmbar 
+TR Ametista 
+TR Anatásio 
+TR Avalanche 
+TR Berilo 
+TR Bissolita 
+TR Bonamita 
+TR Calcedônia 
+TR Coríndon 
+TR Diamante 
+TR Esmeralda 
+TR Fabulita 
+TR Gemas 
+TR Glossulária 
+TR Granada 
+TR Jade 
+TR Mapa Gemológico 
+TR Olho-de-Tigre 
+TR Ônix 
+TR Pedras Coradas 
+TR Pedras Preciosas 
+TR Peridoto 
+TR Pérola 
+TR Rubelita 
+TR Rubi 
+TR Safira 
+TR Topázio 
+TR Turmalina 
+TR Turquesa 
+TR Zircão 
+
+TA Geocronologia 
+ 
+DS Ramo da geologia que se ocupa da avaliação da idade das rochas e eventos geológicos (Leinz e Leonardos, 1971, p.91). 
+ 
+TR Ar-Ar 
+TR C14 
+TR Cronologia 
+TR Datação Radiométrica 
+TR ESP 
+TR Isótopos 
+TR K-Ar 
+TR Lu-Hf 
+TR Nd-Nd 
+TR Pb-Alfa 
+TR Pb-Cs 
+TR Pb-Pb 
+TR Rb-Sr 
+TR Re-Os 
+TR SHRIMP 
+TR Sm-Nd 
+TR Sr-Nd 
+TR Sr-Sr 
+TR Termoluminescência 
+TR Th-Pb 
+TR Traços de Fissão 
+TR U-Pa 
+TR U-Pb 
+TR U-Th 
+TR U-Th-Pb 
+ 
+TA Geodésia 
+ 
+DS Ciência relacionada com a determinação do tamanho e da forma da terra e a localização de pontos em sua superfície; determinação do campo gravitacional da terra e o estudo das variações temporais tais como: marés, movimento polar e rotação da terra (Bates and Jackson, 1987, p.270). 
+ 
+TR GPS 
+ 
+TA Geofísica 
+ 
+DS 1) O estudo da Terra através de métodos físicos quantitativos, especialmente por sísmica de refração e de reflexão e, por métodos gravimétricos, magnéticos, elétricos e radiométricos. 
+ 
+DS 2) A aplicação de princípios físicos aos estudos da Terra, incluindo os ramos da sismologia (terremotos e ondas elásticas), geotermometria (aquecimento da Terra, fluxo de calor, vulcanologia e fontes termais), hidrologia (águas de superfície e sub-superfície, em alguns casos, incluindo a glaciologia), oceanografia, meteorologia, gravimetria e geodésia (campo gravitacional, o tamanho e forma da Terra), eletricidade atmosférica e magnetismo terrestre (incluindo a ionosfera, os cinturões de Van Allen, as correntes telúricas, etc), tectonofísica (processos geológicos na Terra), geofísica de engenharia e geofísica de exploração (Sheriff, 1973, p.98). 
+ 
+TR Acústica 
+TR Aerocintilometria 
+TR Aerogamaespectrometria 
+TR Aerogeofísica 
+TR Aerogravimetria 
+TR Aeromagnetometria 
+TR Aerorradiometria 
+TR Cintilometria 
+TR Deconvolução 
+TR Eletromagnetismo 
+TR Eletromagnetometria 
+TR Eletrorresistividade 
+TR Emanometria 
+TR GPR (Ground Penetrating Radar) 
+TR Gamaespectrometria 
+TR Geofísica Terrestre 
+TR Geofísica de Exploração 
+TR Geomagnetismo 
+TR Gravimetria 
+TR Magnetometria 
+TR Mapa Geofísico 
+TR Mdelagem 
+TR Petrofísica 
+TR Polarização Induzida 
+TR Polarização Natural 
+TR Potencial Espontâneo 
+TR Prospecção Geofísica 
+TR Prospecção Radiológica 
+TR Radiometria 
+TR Resistividade 
+TR Sondagem Audiomagnetotelúrica 
+TR Sondagem Elétrica 
+TR Sondagem Magnetotelúrica 
+TR Sonografia 
+TR Sísmica 
+TR Sísmica de Reflexão 
+TR Sísmica de Refração 
+TR Tectonofísica 
+TR Termodinâmica 
+TR VLF (Very Low Frequency) 
+TR VSP (Vertical Seismic Profiling) 
+ 
+TA Geografia 
+ 
+DS Ciência que tem por objeto a descrição da superfície da Terra, o estudo dos seus acidentes físicos, climas, solos e vegetações, e das relações entre o meio natural e os grupos (Ferreira, 1975, p.687). 
+ 
+TR Cerrado 
+TR Delta 
+TR Estuário 
+TR Fisiografia 
+TR Fitogeografia 
+TR Hidrovia 
+TR Lagoas 
+TR Lagos 
+TR Lagunas 
+TR Mangue 
+TR Oceanos 
+TR Restinga 
+TR Rios 
+ 
+TA Geologia Ambiental 
+ 
+DS Aplicação dos princípios e conhecimentos geológicos aos problemas criados pela ocupação e pela exploração do homem ao meio ambiente. Inclui estudos de hidrogeologia, topografia, geologia de engenharia e geologia econômica, além dos processos, recursos e propriedades de engenharia dos materiais terrestres. Relaciona-se com os problemas ligados à construção de edifícios e facilidades de transporte, controle seguro dos resíduos sólidos e líquidos, gerenciamento de recursos hídricos, avaliação e mapeamento dos recursos minerais e rochas e, planejamento físico de longo alcance e desenvolvimento do uso da terra de modo mais eficiente e benéfico (Bates e Jackson, 1987, p.216). 
+ 
+TR Análise Ambiental 
+TR Desastres Ambientais 
+TR Desertificação 
+TR Mapa Ambiental 
+ 
+TA Geologia de Engenharia 
+ 
+DS Aplicação dos métodos científicos e princípios da engenharia na aquisição, interpretação e uso do conhecimento dos materiais da crosta terrestre, para a solução de problemas de engenharia. Ela abrange as áreas de mecânica de solos e mecânica de rochas e muitos aspectos, Geofísica, Hidrologia e ciências correlatas (Bates and Jackson, 1987 p.274). 
+ 
+TR Áreas de Risco 
+TR Barragens 
+TR Geomecânica 
+TR Geotecnia 
+TR Mapa Geotécnico 
+TR Mecânica das Rochas 
+TR Mecânica dos Solos 
+TR Movimento de Massa 
+TR Usos do Solo 
+DS UP Geologia Aplicada 
+ 
+TA Geologia de Petróleo 
+ 
+DS Ramo da geologia relacionado com a origem, migração e acumulação de petróleo e gás natural, bem como a pesquisa, exploração e explotação de suas jazidas (Oliveira, 1997 p.153). 
+ 
+TR Combustíveis Fósseis 
+TR Gás 
+TR Hidrocarbonetos 
+TR Offshore 
+TR Onshore 
+TR Petróleo 
+TR Reservatório 
+TR Trapas 
+ 
+TA Geologia Econômica 
+ 
+DS Estudo e análise dos corpos geológicos e dos materiais que podem ser utilizados lucrativamente pelo homem, incluindo água; aplicação do conhecimento geológico e da teoria para pesquisa e compreensão dos depósitos minerais (Bates e Jackson, 1987, p.206). 
+ 
+TR Arsenietos 
+TR Canga 
+TR Carbonado 
+TR Fluoretos 
+TR Fosfatos 
+TR Gemas 
+TR Grupo da Platina 
+TR Guano 
+TR Kimberlito 
+TR Mapa Previsional 
+TR Metais 
+TR Metais Base 
+TR Metais Nobres 
+TR Microscopia de Minérios 
+TR Minerais Econômicos 
+TR Minerais Estratégicos 
+TR Minerais Metálicos 
+TR Minerais Não Metálicos 
+TR Minerais Pesados 
+TR Minerais Radioativos 
+TR Minerais Satélites 
+TR Mineralizações 
+TR Mineralizações Polimetálicas 
+TR Nódulos Polimetálicos 
+TR Paragênese 
+TR Pegmatito 
+TR Placer 
+TR Prospecção 
+TR Sulfatos 
+TR Sulfetos 
+TR Sulfetos Metálicos 
+TR Sulfossais 
+TR Tantalatos 
+TR Teluretos 
+TR Trona 
+TR Veios 
+TR Óxidos 
+ 
+TA Geologia Estrutural 
+ 
+DS Ramo da Geologia que estuda a forma, arranjo e estrutura interna das rochas, especialmente com a descrição representação e análises das estruturas, principalmente de escala moderada à pequena. É similar à Tectônica, mas, esta é geralmente usada para regiões mais amplas ou fases históricas (Bates e Jackson, 1987, p.653). 
+ 
+TR Acreção 
+TR Análise Estrutural 
+TR Astroblema 
+TR Cisalhamento 
+TR Deformação 
+TR Diáclase 
+TR Dobras 
+TR Domo 
+TR Estruturas 
+TR Falhas 
+TR Foliação 
+TR Fraturas 
+TR Geografia Agrária 
+TR Geografia Urbana 
+TR Geossinclinal 
+TR Graben 
+TR Hidrografia 
+TR Horst 
+TR Juntas 
+TR Lineação 
+TR Mapa Estrutural 
+TR Projeção Estereográfica 
+ 
+TA Geologia Física 
+ 
+DS Divisão ampla da Geologia que trata dos processos e forças envolvidos na evolução inorgânica e na morfologia da Terra, dos seus minerais constituintes, rochas, magmas e materiais do núcleo (Bates e Jackson, 1987, p.501). 
+ 
+TR Astenosfera 
+TR Atmosfera 
+TR Crosta Terrestre 
+TR Desertos 
+TR Dunas 
+TR Elipsóide 
+TR Erosão 
+TR Intemperismo 
+TR Litosfera 
+TR Manto 
+TR Oceanos 
+TR Orogênese 
+TR Vulcões 
+ 
+TA Geologia Glacial 
+ 
+DS Estudo das feições geológicas e efeitos resultantes da erosão e deposição, causados por geleiras, ou que está sob glaciação (Bates e Jackson, 1987, p.277). 
+ 
+TR Ablação 
+TR Ambientes Glaciais 
+TR Depósitos Glaciais 
+TR Geleiras 
+TR Gelo 
+TR Glaciação 
+TR Morainas 
+TR Permafrost 
+TR Seixos Facetados 
+TR Till 
+ 
+TA Geologia Histórica 
+ 
+DS Ramo da Geologia que se preocupa com a evolução da Terra e suas formas de vida desde sua origem até os dias atuais. O seu estudo inclui investigações de Estratigrafia, Paleontologia e Geocronologia, considerando os paleoambientes, os períodos glaciais e os movimentos de placas tectônicas (Bates, e Jackson 1987, p.309). 
+ 
+TR Biogeografia 
+TR Costa 
+TR Crosta Terrestre 
+TR Deriva Continental 
+TR Gondwana 
+TR Isostasia 
+TR Laurasia 
+TR Paleoambientes 
+TR Pangea 
+TR Regressão 
+TR Transgressão 
+TR Zoogeografia 
+ 
+TA Geologia Isotópica 
+ 
+DS Estudo e aplicação da radioatividade e estabilidade dos isótopos, especialmente sua abundância para a Geologia. Inclue o cálculo do tempo geológico e a determinação da origem, mecanismos e condições dos processos geológicos através dos isótopos (Bates, e Jackson 1987, p.349). 
+ 
+TR Isótopos 
+ 
+TA Geologia Marinha 
+ 
+DS Estudo das margens e do fundo oceânico, incluindo descrições da topografia, composição dos materiais do fundo, interação de sedimentos e rochas com o ar e a água do mar, os efeitos dos movimentos do manto no fundo oceânico e a ação da energia das ondas na crosta submarina da Terra (Parker, 1989, p.801). 
+ 
+TR Atóis 
+TR Batimetria 
+TR Costa 
+TR Ecometria 
+TR Margem Continental 
+TR Nódulos Submarinos 
+TR Oceanos 
+TR Paleobatimetria 
+TR Paleossalinidade 
+TR Plataforma Continental 
+TR Recifes 
+ 
+TA Geologia Médica 
+ 
+DS Ciência que estuda os fatores geoambientais sobre a saúde humana e dos animais. (Selinus, O. 2003). 
+ 
+TA Geologia Regional 
+ 
+DS Geologia de qualquer área relativamente extensa, considerada do ponto de vista da distribuição espacial e da posição das unidades estratigráficas, das feições estruturais e das formas da superfície (Bates e Jackson, 1987, p.558). 
+ 
+TR Mapa Geológico 
+TR Mapeamento Geológico 
+ 
+TA Geomorfologia 
+ 
+DS Ciência que estuda as formas de relevo, tendo em vista a origem, estrutura, natureza das rochas, o clima da região e as diferentes forças endógenas e exógenas que, de modo geral, entram como fatores modificadores do relevo terrestre (Oliveira, 1993, p.242). 
+ 
+TR Ablação 
+TR Aluvião 
+TR Atóis 
+TR Bacia Hidrográfica 
+TR Canal 
+TR Carst 
+TR Cascalheira 
+TR Colmatação 
+TR Coluvião 
+TR Costa 
+TR Cuesta 
+TR Delta 
+TR Depositos Lagunares 
+TR Depósitos Aluvionares 
+TR Depósitos Continentais 
+TR Depósitos Eólicos 
+TR Depósitos Fluviais 
+TR Depósitos Glaciais 
+TR Depósitos Lacustres 
+TR Depósitos Marinhos 
+TR Depósitos Praiais 
+TR Depósitos Recentes 
+TR Depósitos Sedimentares 
+TR Desertificação 
+TR Desertos 
+TR Deslizamento 
+TR Dolina 
+TR Drenagem 
+TR Dunas 
+TR Erosão 
+TR Escarpa 
+TR Estruturas de Impacto 
+TR Estuário 
+TR Eustasia 
+TR Falésia 
+TR Geomorfologia Marinha 
+TR Geomorfologia Submarina 
+TR Intemperismo 
+TR Isostasia 
+TR Lagoas 
+TR Lagos 
+TR Lagunas 
+TR Litoral 
+TR Mangue 
+TR Mapa Ambiental 
+TR Mapa Geomorfológico 
+TR Mapa Morfoestrutural 
+TR Mapeamento Geomorfológico 
+TR Movimento de Massa 
+TR Nível Base de Erosão 
+TR Oceanos 
+TR Paleossolos 
+TR Recifes 
+TR Restinga 
+TR Rios 
+TR Vulcões 
+TR Áreas de Risco 
+ 
+TA Geoprocessamento 
+ 
+DS É o conjunto de metodologias que visam a Análise Espacial de Dados Georreferenciados, utilizando tecnologias de Sistemas de Informações Geográficas (SIG) e Sistemas de Análise de Imagem (SAI), integrados a Sistemas de Gerenciamento de Bases de Dados, relacionais ou não (RDBMS, DBMS), visando a construção de Modelos da realidade, com o objetivo de dar suporte ao Planejamento e à Tomada de Decisões, através da visualização e/ou monitoramento dos fenômenos relacionados ao Meio Físico e Biótico (Branco, set/1998 - CPRM). 
+ 
+TR Análise Quantitativa 
+TR Base de Dados 
+TR Cartografia Digital 
+TR GIS (Geographic Information System) 
+TR GPS (Global Positioning System) 
+TR MDT (Modelagem Digital de Terrenos) 
+TR Processamento Gráfico 
+TR Processamento de Imagens 
+TR SAI (Sistemas de Análise de Imagem) 
+ 
+TA Geoquímica 
+ 
+DS Como definido por Goldschmidt (1954) é o estudo da distribuição e quantidade dos elementos químicos nos minerais, minérios, rochas, solos, água e atmosfera; da circulação dos elementos na natureza, com base nas propriedades dos seus átomos e íons. Também é o estudo da distribuição e abundância dos isótopos, incluindo problemas da freqüência e estabilidade nuclear no universo. Tem como um dos seus principais interesses a avaliação sinóptica da abundância dos elementos na crosta terrestre e as principais classes de rochas e minerais (Bates e Jackson, 1987, p.269). 
+ 
+TR Base de Dados 
+TR Biogeoquímica 
+TR Concentrado de Batéia 
+TR Elementos Maiores 
+TR Elementos Menores 
+TR Elementos Traços 
+TR Gases 
+TR Gases Nobres 
+TR Geobotânica 
+TR Geoquímica Ambiental 
+TR Geoquímica Orgânica 
+TR Hidrogeoquímica 
+TR Isótopos 
+TR Laterita 
+TR Levantamento Geoquímico 
+TR Litogeoquímica 
+TR Mapa Geoquímico 
+TR Metais Pesados 
+TR Meteorito 
+TR Pedogeoquímica 
+TR Prospecção Aluvionar 
+TR Prospecção Geoquímica 
+TR Sedimentos de Corrente 
+TR Solos 
+TR TR (Elementos de Terras Raras) 
+TR Termodinâmica 
+TR Terras Raras 
+ 
+TA Geotermometria 
+ 
+DS 1) Estudo do calor e fontes de calor da Terra, incluindo a temperatura e os seus efeitos nos processos químicos e físicos e na vulcanologia. 
+ 
+DS 2) Determinação da temperatura de equilíbrio químico da rocha, mineral ou fluído (Bates e Jackson, 1987, p.274). 
+ 
+TR Energia Geotermal 
+TR Fontes Geotermais 
+TR Geotermia 
+TR Geotermobarometria 
+TR Inclusões Fluídas 
+TR Prospecção Geotermal 
+TR Termodinâmica 
+ 
+TA Hidrogeologia 
+ 
+DS Ciência que estuda o armazenamento e circulação das águas subterrâneas na zona saturada das formações geológicas, considerando suas propriedades físico-químicas, suas interações com o meio físico e biológico e suas reações às ações do homem (Frangipani, 1981, p.12). 
+ 
+TR Água Subterrânea 
+TR Aquitardo 
+TR Aquícludo 
+TR Aquíferos 
+TR Aquífugo 
+TR Carst 
+TR Hidrodinâmica 
+TR Hidrogeoquímica 
+TR Hidrogeotecnia 
+TR Hidroquímica 
+TR Mapa Hidrogeológico 
+TR Permeabilidade 
+TR Porosidade 
+TR Qualidade da Água 
+TR Usos da Água 
+ 
+TA Hidrologia 
+ 
+DS É a ciência que trata da água, suas formas de ocorrência, circulação, suas propriedades físico-químicas, suas interações com o meio físico e biológico, bem como as suas reações à ação do homem (Frangipani, 1987, p.13). 
+ 
+TR Água 
+TR Bacia Hidrográfica 
+TR Ciclo Hidrológico 
+TR Gases Nobres 
+TR Hidrodinâmica 
+TR Hidrografia 
+TR Hidrometria 
+TR Hidroquímica 
+TR Hidrovia 
+TR Hidráulica 
+TR Irrigação 
+TR Oceanos 
+TR Permeabilidade 
+TR Pluviometria 
+TR Porosidade 
+TR Qualidade da Água 
+TR Reservatório 
+TR Rios 
+TR Usos da Água 
+ 
+TA Magnetismo 
+ 
+DS Designação comum às propriedades características dos campos e das substâncias magnéticas (Ferreira, 1975, p.872). 
+ 
+TA Matemática 
+ 
+DS Ciência que investiga as relações entre entidades definidas, abstrata e logicamente (Ferreira, 1975, p.904). 
+ 
+TR Fractais 
+TR Geoestatística 
+TR Geomatemática 
+TR Modelagem 
+ 
+TA Matérias Primas 
+ 
+DS Substancia bruta principal e essencial com que e fabricada alguma coisa (Ferreira, 1975, p.904). 
+ 
+TR Água 
+TR Água Marinha 
+TR Água Mineral 
+TR Álcalis 
+TR Álcool 
+TR Antracito 
+TR Ardósia 
+TR Areia 
+TR Areia Ilmenítica 
+TR Areia Monazítica 
+TR Arenito 
+TR Argila 
+TR Asbesto 
+TR Asfalto 
+TR Barrilha 
+TR Betume 
+TR Boro 
+TR Cal 
+TR Calcário 
+TR Carbonado 
+TR Carvão 
+TR Carvão Betuminoso 
+TR Carvão Mineral 
+TR Cascalho 
+TR Caulim 
+TR Cerâmica 
+TR Cimento 
+TR Cloreto de Cálcio 
+TR Conchas 
+TR Coque 
+TR Diamante Industrial 
+TR Dolomito 
+TR Enxofre 
+TR Fabulita 
+TR Ferroligas 
+TR Fertilizantes 
+TR Fosfatos 
+TR Gipsita 
+TR Grafita 
+TR Granito 
+TR Guano 
+TR Materiais de Construção 
+TR Minerais Críticos 
+TR Minerais Econômicos 
+TR Minerais Energéticos 
+TR Minerais Estratégicos 
+TR Minerais Industriais 
+TR Minerais Metálicos 
+TR Minerais Não-Metálicos 
+TR Minerais Pesados 
+TR Minerais Radioativos 
+TR Mármore 
+TR Novos Minerais 
+TR Oleígenas 
+TR Olióca 
+TR Pedras Coradas 
+TR Pedras Preciosas 
+TR Pegmatito 
+TR Perlita 
+TR Rochas Ornamentais 
+TR Sais 
+TR Sais de Potássio 
+TR Sal-gema 
+TR Salitre 
+TR Salmouras 
+TR Sapropelito 
+TR Silicatos 
+TR Soda Caústica 
+TR Tantalatos 
+TR Terra Infusorial 
+TR Terras Raras 
+TR Trona 
+TR Urânio 
+TR Vermiculita 
+ 
+TA Meio Ambiente 
+ 
+DS Conjunto dos fatores físicos, químicos, biológicos onde vive o homem (com os fatores econômicos, sociais e culturais) e tudo o mais que envolve um organismo: meio ambiente construído - áreas construídas e consideradas como o meio ambiente no qual os seres humanos vivem; meio ambiente e desenvolvimento - a relação de harmonia que deve existir entre o meio ambiente protegido e sadio e um processo de desenvolvimento ecologicamente equilibrado e voltado para o bem estar social; proteção ao meio ambiente (proteção ambiental) - ação de proteção ao meio ambiente através da regulamentação das descargas de lixo, da emissão de poluentes e de outras atividades humanas (Brigadão, 1992, p.157). 
+ 
+TR Áreas de Risco 
+TR Atmosfera 
+TR Educação Ambiental 
+TR Gestão Ambiental 
+TR Gestão Territorial 
+TR GIS (Geographic Information System) 
+TR Impacto Ambiental 
+TR Legislação Ambiental 
+TR Planejamento Agrícola 
+TR Planejamento Urbano 
+TR Qualidade da Água 
+ 
+TA Metalogenia 
+ 
+DS Estudo da gênese dos depósitos minerais, com ênfase em suas relações de tempo e espaço com a petrografia regional e com as feições tectônicas da crosta terrestre. O termo tem sido usado tanto para depósitos minerais metálicos, como para não metálicos (Bates and Jackson, 1987, p.416). 
+ 
+TR Arsenietos 
+TR Fluoretos 
+TR Mapa Metalogenético 
+TR Mapa Previsional 
+TR Metais 
+TR Metais Base 
+TR Metais Nobres 
+TR Microscopia de Minérios 
+TR Minerais Metálicos 
+TR Mineralizações 
+TR Mineralizações Polimetálicas 
+TR Sulfetos 
+TR Sulfetos Metálicos 
+TR Sulfossais 
+TR Veios 
+TR Óxidos 
+ 
+TA Metalurgia 
+ 
+DS Conjunto de tratamentos físicos e químicos a que se submetem os minerais para se extraírem, devidamente purificados e beneficiados (Ferreira, 975, p.924). 
+ 
+TR Metalografia 
+TR Mineralurgia 
+TR Siderurgia 
+ 
+TA Metamorfismo 
+ 
+DS Mudanças mineralógicas e estruturais da rocha sólida, em resposta às condições ambientais de profundidade da crosta terrestre (Parker, 1989, p.1184). 
+ 
+TR Anatexia 
+TR Calcissilicáticas 
+TR Carnockíticas 
+TR Catáclase 
+TR Epidotização 
+TR Fácies Metamórficos 
+TR Geotermobarometria 
+TR Gnaíssicas 
+TR Granulito 
+TR Granulíticas 
+TR Metabásicas 
+TR Metaluminosas 
+TR Metamorfismo Dinâmico 
+TR Metamorfismo Regional 
+TR Metamorfismo de Contato 
+TR Metamórficas 
+TR Metassedimentos 
+TR Metaultrabásicas 
+TR Metavulcânicas 
+TR Migmatito 
+TR Migmatização 
+TR Migmatíticas 
+TR Mármore 
+TR Paragênese 
+TR Petrogênese 
+TR Retrometamorfismo 
+TR Termodinâmica 
+ 
+TA Meteorologia 
+ 
+DS Ciência relacionada com a atmosfera e seus fenômenos; a meteorologia observa a temperatura da atmosfera, a densidade, os ventos, as nuvens, a precipitação e outras características e, tem como objetivo justificar a sua estrutura observada e evolução (o clima em parte) em termos da influência externa e das leis básicas da Física (Parker, 1989, p.1186). 
+ 
+TR Atmosfera 
+TR Climatologia 
+TR Desertificação 
+TR Gases 
+ 
+TA Mineralogia 
+ 
+DS Ciência que estuda as substâncias inorgânicas naturais, chamadas minerais, sua formação e ocorrência, suas propriedades e composição e sua classificação, sejam elas de origem terrestre ou extraterrestre (Parker, 1988, p.390). 
+ 
+TR Acantita 
+TR Acmita 
+TR Acondrito 
+TR Acrochordita 
+TR Acrochordita 
+TR Acroíta 
+TR Actinolita 
+TR Adamita 
+TR Adulária 
+TR Aegirina 
+TR Aenigmatita 
+TR Afrizita 
+TR Ágata 
+TR Água-Marinha 
+TR Aguilarita 
+TR Aikinita 
+TR Akaganeíta 
+TR Akermanita 
+TR Akhtenskita 
+TR Alabandita 
+TR Alabastro 
+TR Alacranita 
+TR Albertita 
+TR Albita 
+TR Alexandrita 
+TR Allanita 
+TR Alluaudita 
+TR Almandina 
+TR Aloclasita 
+TR Alofano 
+TR Alstonita 
+TR Altaíta 
+TR Alume 
+TR Aluminita 
+TR Alumotantita 
+TR Alunita 
+TR Amazonita 
+TR Ambligonita 
+TR Ametista 
+TR Amosita 
+TR Analbita 
+TR Analcima 
+TR Anapaíta 
+TR Anatásio 
+TR Anauxita 
+TR Andaluzita 
+TR Andesina 
+TR Andradita 
+TR Andvoíta 
+TR Anfibólio 
+TR Anglesita 
+TR Anidrita 
+TR Anilita 
+TR Ankerita 
+TR Ankoleíta 
+TR Annaberguita 
+TR Anortita 
+TR Anortoclásio 
+TR Antigorita 
+TR Antimonita 
+TR Antipertita 
+TR Antlerita 
+TR Antofilita 
+TR Antosiderita 
+TR Antraxolita 
+TR Apatita 
+TR Apofilita 
+TR Aragonita 
+TR Aramajoita 
+TR Arfvedsonita 
+TR Argentita 
+TR Argirodita 
+TR Arkazita 
+TR Armalcolita 
+TR Arrojadita 
+TR Arseniatos 
+TR Arsenietos 
+TR Arsenopaladinita 
+TR Arsenopirita 
+TR Artinita 
+TR Asbesto 
+TR Asbolano 
+TR Asbólita 
+TR Astrofilita 
+TR Atacamita 
+TR Atopita 
+TR Atroarita 
+TR Attapulguita 
+TR Augelita 
+TR Augita 
+TR Auricalcita 
+TR Aurostibita 
+TR Austinita 
+TR Autunita 
+TR Avelinoita 
+TR Aventurino 
+TR Averievita 
+TR Awaruita 
+TR Axinita 
+TR Azurita 
+TR Babingtonita 
+TR Baddeleyíta 
+TR Bahianita 
+TR Baratovita 
+TR Barbosalita 
+TR Barilita 
+TR Barita 
+TR Basaluminita 
+TR Bassanita 
+TR Bastnaesita 
+TR Bauranoita 
+TR Bauxita 
+TR Bavenita 
+TR Bayerita 
+TR Bayldonita 
+TR Beartita 
+TR Beidelita 
+TR Bellidolita 
+TR Bementita 
+TR Benitoíta 
+TR Bentonita 
+TR Beraunita 
+TR Bergenita 
+TR Berilo 
+TR Berilonita 
+TR Bernalita 
+TR Berndtita 
+TR Berryíta 
+TR Berthierina 
+TR Berthierita 
+TR Bertosaíta 
+TR Bertrandita 
+TR Berturina 
+TR Berzelianita 
+TR Beta Uranofânio 
+TR Betafita 
+TR Beudantita 
+TR Bideauxita 
+TR Bindheimita 
+TR Biotita 
+TR Birnessita 
+TR Bischofita 
+TR Bismita 
+TR Bismutinita 
+TR Bismutita 
+TR Bismutotantalita 
+TR Bissolita 
+TR Bityíta 
+TR Bixbyiita 
+TR Bjarebyita 
+TR Blatonita 
+TR Blatterita 
+TR Boeggildita 
+TR Boehmita 
+TR Boelnita 
+TR Bohdanowiczita 
+TR Boleíta 
+TR Boltwoodita 
+TR Bonamita 
+TR Boracita 
+TR Bornemanita 
+TR Bornita 
+TR Boulangerita 
+TR Bournonita 
+TR Bowenita 
+TR Braggita 
+TR Brannerita 
+TR Brasilianita 
+TR Brasilita 
+TR Braunita 
+TR Bravoíta 
+TR Breunnerita 
+TR Brewsterita 
+TR Brianita 
+TR Briartita 
+TR Britolita 
+TR Brochantita 
+TR Broeggerita 
+TR Bromargirita 
+TR Bromellita 
+TR Bronzita 
+TR Brookita 
+TR Brucita 
+TR Brushita 
+TR Buerguerita 
+TR Burangaíta 
+TR Burtita 
+TR Bustamita 
+TR Bytownita 
+TR Bórax 
+TR Cabazita 
+TR Cacoxenita 
+TR Cainita 
+TR Calamina 
+TR Calaverita 
+TR Calcantita 
+TR Calcedônia 
+TR Calciouranoita 
+TR Calcita 
+TR Calcopirita 
+TR Calcosina 
+TR Calcosita 
+TR Calcostibita 
+TR Calibita 
+TR Caliborita 
+TR Calinita 
+TR Caliofilita 
+TR Calogerasita 
+TR Calzirtita 
+TR Camacita 
+TR Camosita 
+TR Cancrinita 
+TR Canfieldita 
+TR Canizzarita 
+TR Caoíta 
+TR Carbonado 
+TR Carfolita 
+TR Carnalita 
+TR Carnotita 
+TR Carrolita 
+TR Caryínita 
+TR Cassiterita 
+TR Cattierita 
+TR Caulinita 
+TR Celadonita 
+TR Celestita 
+TR Cerargirita 
+TR Cerianita 
+TR Cerita 
+TR Cerolita 
+TR Cerussita 
+TR Cervantita 
+TR Chalcostibita 
+TR Chalmersita 
+TR Chamoisita 
+TR Chernikovita 
+TR Chevkinita 
+TR Childrenita 
+TR Chkalovita 
+TR Cianita 
+TR Cilindrita 
+TR Cimofana 
+TR Cinábrio 
+TR Citrino 
+TR Clarcreekita 
+TR Clausthalita 
+TR Cleavelandita 
+TR Clinoatacamita 
+TR Clinocloro 
+TR Clinoenstatita 
+TR Clinoeulita 
+TR Clinoferrossitita 
+TR Clinohumita 
+TR Clinoiperstênio 
+TR Clinoptilolito 
+TR Clinotobermorita 
+TR Clinozoisita 
+TR Clintonita 
+TR Cloantita 
+TR Clorapatita 
+TR Clorargirita 
+TR Clorastrolita 
+TR Clorita 
+TR Cloritóide 
+TR Clorofaeíta 
+TR Cloronulanita 
+TR Cobaltita 
+TR Coesita 
+TR Coffinita 
+TR Cohenita 
+TR Colemanita 
+TR Coloradoíta 
+TR Columbita 
+TR Colusita 
+TR Combeíta 
+TR Comptonita 
+TR Condrodita 
+TR Conicalcita 
+TR Cookeíta 
+TR Cooperita 
+TR Copiapita 
+TR Coquimbita 
+TR Corderoíta 
+TR Cordierita 
+TR Coronadita 
+TR Corrensita 
+TR Cosalita 
+TR Coulsonita 
+TR Coutinhoíta 
+TR Covellita 
+TR Crandallita 
+TR Criolita 
+TR Criptomelano 
+TR Criptopertita 
+TR Crisoberilo 
+TR Crisocola 
+TR Crisoprásio 
+TR Crisotila 
+TR Cristaloquímica 
+TR Cristobalita 
+TR Crisólita 
+TR Crocidolita 
+TR Crocoíta 
+TR Crombismita 
+TR Cromita 
+TR Cromodiopsídio 
+TR Crookesita 
+TR Crossita 
+TR Cubanita 
+TR Cummingtonita 
+TR Cuprita 
+TR Cupropavonita 
+TR Cymrita 
+TR Cyrilovita 
+TR Cyrtolita 
+TR Córindon 
+TR Dahllita 
+TR Damourita 
+TR Danburyta 
+TR Daphyllita 
+TR Datolita 
+TR Davidita 
+TR Dawsonita 
+TR Deerita 
+TR Defernita 
+TR Delafossita 
+TR Demantóide 
+TR Dendrito 
+TR Derapiosita 
+TR Derbylita 
+TR Descloizita 
+TR Deweylita 
+TR Diallagita 
+TR Dialogita 
+TR Diamante 
+TR Diamante Industrial 
+TR Diamante Sintético 
+TR Dickita 
+TR Dicroita 
+TR Digenita 
+TR Dimorfita 
+TR Dioplásio 
+TR Diopsídio 
+TR Discrasita 
+TR Distênio 
+TR Diásporo 
+TR Djalmaita 
+TR Djerfisherita 
+TR Djurleita 
+TR Dolomita 
+TR Dorfmanita 
+TR Dravita 
+TR Droogmansita 
+TR Drugmanita 
+TR Dufrenita 
+TR Dufrenoisita 
+TR Dumortierita 
+TR Edingtonita 
+TR Egirina 
+TR Egirinaugita 
+TR Eglestonita 
+TR Ekanita 
+TR Ekaterinita 
+TR Elbaíta 
+TR Elembergerita 
+TR Emeleusita 
+TR Emplectita 
+TR Empressita 
+TR Enargita 
+TR Enigmatita 
+TR Enstatita 
+TR Eosforita 
+TR Epistilbita 
+TR Epsomita 
+TR Epídoto 
+TR Eremeyevita 
+TR Erionita 
+TR Eritrita 
+TR Escapolita 
+TR Eschwegeita 
+TR Escolecita 
+TR Escorodita 
+TR Esfalerita 
+TR Esferobertrandita 
+TR Esferocobalcita 
+TR Esfênio 
+TR Eskebornita 
+TR Eskolaíta 
+TR Esmaltita 
+TR Esmaragdita 
+TR Esmectita 
+TR Esmeralda 
+TR Especularita 
+TR Espessartita 
+TR Espinélio 
+TR Espodumênio 
+TR Esquinita 
+TR Estanita 
+TR Estanoidita 
+TR Estaurolita 
+TR Esteacita 
+TR Estibiconita 
+TR Estibinita 
+TR Estibiopaladinita 
+TR Estibiotantalita 
+TR Estilbita 
+TR Estilpnomelano 
+TR Estroncianita 
+TR Estruvita 
+TR Estrôncio Pirocloro 
+TR Ettringita 
+TR Eucairita 
+TR Euclásio 
+TR Eucolita 
+TR Eucriptita 
+TR Eudialita 
+TR Eulita 
+TR Eulitita 
+TR Eunicita 
+TR Euxenita 
+TR Fabulita 
+TR Faheyita 
+TR Faialita 
+TR Fairbankita 
+TR Falkmanita 
+TR Famatinita 
+TR Farmacossiderita 
+TR Fava 
+TR Fedorovskita 
+TR Feinglosita 
+TR Feldspato 
+TR Feldspatóides 
+TR Fenacita 
+TR Fengita 
+TR Fenglosita 
+TR Fenicocrota 
+TR Ferberita 
+TR Fergusonita 
+TR Feroxyita 
+TR Ferrazita 
+TR Ferridrita 
+TR Ferrierita 
+TR Ferrimolibdita 
+TR Ferrissicklerita 
+TR Ferrocarfolita 
+TR Ferrohastingsita 
+TR Fervanita 
+TR Fibrolita 
+TR Filossilicatos 
+TR Fletcherita 
+TR Flogopita 
+TR Florencita 
+TR Fluoretos 
+TR Fluorita 
+TR Forsterita 
+TR Fosfatos 
+TR Fosfocerita 
+TR Fosfoferrita 
+TR Fosfofilita 
+TR Fosforita 
+TR Fosforossiderita 
+TR Fosinaíta 
+TR Framesita 
+TR Francevillita 
+TR Franckeíta 
+TR Francolita 
+TR Frankamenita 
+TR Franklinita 
+TR Freibergita 
+TR Freieslebenita 
+TR Friedelita 
+TR Frondelita 
+TR Froodita 
+TR Fuchsita 
+TR Furalumita 
+TR Gadolinita 
+TR Gagarinita 
+TR Gahnita 
+TR Gaidonnayita 
+TR Gaitita 
+TR Galena 
+TR Galena Argentífera 
+TR Galenobismutita 
+TR Galkhaita 
+TR Garavellita 
+TR Garnierita 
+TR Garrelsita 
+TR Garronita 
+TR Gaylussita 
+TR Geerita 
+TR Gehlenita 
+TR Geikielita 
+TR Gemas 
+TR Genthelvita 
+TR Geocronita 
+TR Gersdorfita 
+TR Gibbsita 
+TR Gilalita 
+TR Gillespita 
+TR Giobertita 
+TR Gipsita 
+TR Girdita 
+TR Gittinsita 
+TR Glasserita 
+TR Glauberita 
+TR Glaucodoto 
+TR Glaucofânio 
+TR Glauconita 
+TR Glendonita 
+TR Goethita 
+TR Goiasita 
+TR Goldfieldita 
+TR Goldmanita 
+TR Gorceixita 
+TR Grafita 
+TR Graftonita 
+TR Granada 
+TR Grandidierita 
+TR Gratonita 
+TR Greenalita 
+TR Greenockita 
+TR Greigita. 
+TR Grifita 
+TR Grospydita 
+TR Grossulária 
+TR Groutita 
+TR Grumiplucita 
+TR Grunerita 
+TR Grupo da Platina 
+TR Guanajuatita 
+TR Gudmundita 
+TR Guettardita 
+TR Gumita 
+TR Gustavita 
+TR Hackmanita 
+TR Haggita 
+TR Haindigerita 
+TR Haiweeita 
+TR Hakita 
+TR Halita 
+TR Halloysita 
+TR Halotriquita 
+TR Hamarita 
+TR Hambergita 
+TR Hamlinita 
+TR Hamusita 
+TR Harkerita 
+TR Harttita 
+TR Hastingsita 
+TR Hausmanita 
+TR Heazlewoodita 
+TR Hectorita 
+TR Hedenbergita 
+TR Hedleyíta 
+TR Heldyshita 
+TR Helvita 
+TR Hematita 
+TR Hemiedrita 
+TR Hemimorfita 
+TR Hercinita 
+TR Herderita 
+TR Herzembergita 
+TR Hessita 
+TR Heterogenita 
+TR Heteromorfita 
+TR Heulandita 
+TR Hialita 
+TR Hibonita 
+TR Hidrargilita 
+TR Hidroboracita 
+TR Hidrobucholzita 
+TR Hidrodresserita 
+TR Hidrogrossulária 
+TR Hidromagnesita 
+TR Hidrotalcita 
+TR Hidroxilherderita 
+TR Hidrozinaíta 
+TR Hidrozincita 
+TR Hinsdalita 
+TR Hiperstênio 
+TR Hisingerita 
+TR Hoegboemita 
+TR Hohmannita 
+TR Hollandita 
+TR Holmquistita 
+TR Hornblenda 
+TR Howieíta 
+TR Howlita 
+TR Hubnerita 
+TR Hulsita 
+TR Humita 
+TR Huntita 
+TR Hureaulita 
+TR Hussakita 
+TR Hutchinsonita 
+TR Idaíta 
+TR Idocrásio 
+TR Ikaíta 
+TR Illita 
+TR Ilmenita 
+TR Ilmenocolumbita 
+TR Ilmenorrutilo 
+TR Ilsemannita 
+TR Ilvaíta 
+TR Imogolita 
+TR Incaíta 
+TR Inclusões 
+TR Inderborita 
+TR Innelita 
+TR Inyoíta 
+TR Iodargyrita 
+TR Iranita 
+TR Isokita 
+TR Isótopos 
+TR Itrialita 
+TR Ixiolita 
+TR Jacobsita 
+TR Jade 
+TR Jadeíta 
+TR Jahnsita 
+TR Jalpaíta 
+TR Jamesonita 
+TR Jarosita 
+TR Jaspe 
+TR Jensenita 
+TR Joaquinita 
+TR Johannsenita 
+TR Johnsomirvilleita 
+TR Jordanita 
+TR Jordisita 
+TR Jorgensenita 
+TR Josbita 
+TR Josephinita 
+TR Joseíta 
+TR Jouravskita 
+TR Julgoldita 
+TR Kaersutita 
+TR Kafeidrocianita 
+TR Kalkowskita 
+TR Kalsilita 
+TR Kanonaíta 
+TR Karpinskyíta 
+TR Kasolita 
+TR Keatita 
+TR Kehoeíta 
+TR Keithconnita 
+TR Keldyshita 
+TR Kemmererita 
+TR Kempita 
+TR Kenyaíta 
+TR Kernita 
+TR Kerstenita 
+TR Khibinskita 
+TR Kieserita 
+TR Kievita 
+TR Kilchoanita 
+TR Koashvita 
+TR Kobellita 
+TR Kolveckita 
+TR Kolymita 
+TR Kornerupina 
+TR Kotoíta 
+TR Koutekita 
+TR Krennerita 
+TR Krutovita 
+TR Kunzita 
+TR Kurchatovita 
+TR Kurnakovita 
+TR Kusuita 
+TR Kutnahorita 
+TR Labradorita 
+TR Labuntsovita 
+TR Laffittita 
+TR Laitakarita 
+TR Lamprofilita 
+TR Langbeinita 
+TR Langita 
+TR Lantanita 
+TR Lapparentita 
+TR Larnita 
+TR Laumontita 
+TR Laurita 
+TR Lautarita 
+TR Lavenita 
+TR Lawrencita 
+TR Lawsonita 
+TR Lazulita 
+TR Lazurita 
+TR Leadhillita 
+TR Legrandita 
+TR Leifita 
+TR Leonhardita 
+TR Lepidocrocita 
+TR Lepidolita 
+TR Lepidomelano 
+TR Leucita 
+TR Leucofosfita 
+TR Leucosfenita 
+TR Leucoxênio 
+TR Lewisita 
+TR Liebiguita 
+TR Limonita 
+TR Linarita 
+TR Lindbergita 
+TR Linneíta 
+TR Liottita 
+TR Litiofilita 
+TR Litioforita 
+TR Lizardita 
+TR Loellingita 
+TR Lonsdaleíta 
+TR Loparita 
+TR Lorandita 
+TR Loveringita 
+TR Ludlockita 
+TR Ludwigita 
+TR Luzonita 
+TR Maghemita 
+TR Magnesita 
+TR Magnetita 
+TR Malaquita 
+TR Mandarinoíte 
+TR Manganita 
+TR Manganocalcita 
+TR Manjiroita 
+TR Marcassita 
+TR Marekanita 
+TR Margarita 
+TR Marialita 
+TR Martita 
+TR Mascagnita 
+TR Matlockita 
+TR Mawsonita 
+TR Meionita 
+TR Melanita 
+TR Melanterita 
+TR Melilita 
+TR Melolita 
+TR Melonita 
+TR Merenskyita 
+TR Mesolita 
+TR Metadolomita 
+TR Metahewettita 
+TR Metamictos 
+TR Metatorbenita 
+TR Metauranocircita 
+TR Meteorito 
+TR Miargirita 
+TR Mica 
+TR Microclíneo 
+TR Microlita 
+TR Microscopia de Minérios 
+TR Milarita 
+TR Millerita 
+TR Mimetita 
+TR Minerais Acessórios 
+TR Minerais Econômicos 
+TR Minerais Estratégicos 
+TR Minerais Industriais 
+TR Minerais Metálicos 
+TR Minerais Não Metálicos 
+TR Minerais Opacos 
+TR Minerais Pesados 
+TR Minerais Radioativos 
+TR Minerais Satélites 
+TR Minerais de Argila 
+TR Mirabilita 
+TR Mirkequita 
+TR Mirmequita 
+TR Mitridatita 
+TR Mizzonita 
+TR Moissanita 
+TR Molibdenita 
+TR Monazita 
+TR Moncheíta 
+TR Monticellita 
+TR Montmorillonita 
+TR Moraesita 
+TR Mossita 
+TR Mullerita 
+TR Mullita 
+TR Muscovita 
+TR Nacrita 
+TR Nagyagita 
+TR Nahcolita 
+TR Natrolita 
+TR Natrão 
+TR Naumannita 
+TR Nefelina 
+TR Nefrita 
+TR Neighborita 
+TR Nesquehonita 
+TR Netunita 
+TR Nevianskita 
+TR Newberyíta 
+TR Nezilovita 
+TR Nicolita 
+TR Nigerita 
+TR Niggliíta 
+TR Ningyoíta 
+TR Niningerita 
+TR Nitratos 
+TR Nióbio-Tantalatos 
+TR Nontronita 
+TR Norbeguita 
+TR Nordstrandita 
+TR Normandita 
+TR Norsethita 
+TR Noseana 
+TR Nsutita 
+TR Nukundamita 
+TR Oborita 
+TR Obsidiana 
+TR Ofretita 
+TR Oldhamita 
+TR Olho-de-Tigre 
+TR Oligoclásio 
+TR Oliveiraita 
+TR Olivina 
+TR Onfacita 
+TR Ônix 
+TR Onofrita 
+TR Opala 
+TR Orpimenta 
+TR Ortoclásio 
+TR Ortopiroxênio 
+TR Osumilita 
+TR Otavita 
+TR Óxidos 
+TR Otawayita 
+TR Ozocerita 
+TR Painita 
+TR Paladoarseneto 
+TR Paladseíta 
+TR Palygorskita 
+TR Paolovita 
+TR Paracelsiano 
+TR Paragonita 
+TR Paragênese 
+TR Paranatrolita 
+TR Paratacamita 
+TR Parawollastonita 
+TR Pargasita 
+TR Parisita 
+TR Patronita 
+TR Pavonita 
+TR Pearceíta 
+TR Pechblenda 
+TR Pectolita 
+TR Pedra Preciosa 
+TR Pedra-Pomes 
+TR Pedra-da-Lua 
+TR Penfieldita 
+TR Peninita 
+TR Pentlandita 
+TR Periclásio 
+TR Peridoto 
+TR Peristerita 
+TR Perovskita 
+TR Perrierita 
+TR Pertita 
+TR Petalita 
+TR Petlandita 
+TR Petrovicita 
+TR Petzita 
+TR Phillipsita 
+TR Pickeringita 
+TR Picroilmenita 
+TR Picrolita 
+TR Picromelita 
+TR Picromerita 
+TR Piemontita 
+TR Pigeonita 
+TR Pilsenita 
+TR Pimelita 
+TR Pinguita 
+TR Pinita 
+TR Pirargirita 
+TR Piretita 
+TR Pirita 
+TR Piroaurita 
+TR Pirocloro 
+TR Pirofanita 
+TR Pirofilita 
+TR Pirolusita 
+TR Piromorfita 
+TR Piropo 
+TR Pirosmalita 
+TR Piroxferroita 
+TR Piroxmangita 
+TR Piroxênio 
+TR Pirquitasita 
+TR Pirrotita 
+TR Plagioclásio 
+TR Plagionita 
+TR Planqueíta 
+TR Plessita 
+TR Plumbita 
+TR Plumbogumita 
+TR Polialita 
+TR Polibasita 
+TR Policrásio 
+TR Polidimita 
+TR Polilitionita 
+TR Polucita 
+TR Potarita 
+TR Powellita 
+TR Prenhita 
+TR Priderita 
+TR Prosopita 
+TR Proustita 
+TR Pseudobrucita 
+TR Pseudoleucita 
+TR Pseudomorfismo 
+TR Psilomelano 
+TR Ptilolita 
+TR Pucherita 
+TR Pumpellyita 
+TR Pérola 
+TR Quandilita 
+TR Quartzo 
+TR Quenstedtita 
+TR Quenzelita 
+TR Quermesita 
+TR Rabdofanita 
+TR Rammelsbergita 
+TR Ramsayíta 
+TR Ramsdellita 
+TR Rancieíta 
+TR Rapidcreekita 
+TR Raspita 
+TR Raíta 
+TR Realgar 
+TR Rectorita 
+TR Reedmergnerita 
+TR Richterita 
+TR Ringwoodita 
+TR Rinneíta 
+TR Robertsita 
+TR Robinsonita 
+TR Rockbridgeíta 
+TR Rodocrosita 
+TR Rodolita 
+TR Rodonita 
+TR Roedderita 
+TR Roemerita 
+TR Roggianita 
+TR Romerita 
+TR Romeíta 
+TR Roquesita 
+TR Rosasita 
+TR Roscherita 
+TR Roscoelita 
+TR Roselita 
+TR Roxbyíta 
+TR Rubelita 
+TR Rubi 
+TR Rucklidgeíta 
+TR Russelita 
+TR Rutilo 
+TR Sabolevskita 
+TR Sabugalita 
+TR Safira 
+TR Safirina 
+TR Saflorita 
+TR Sahlita 
+TR Sais 
+TR Sais de Potássio 
+TR Sakhaíta 
+TR Sakuraiíta 
+TR Saleeíta 
+TR Salitre 
+TR Samarskita 
+TR Sanidina 
+TR Saponita 
+TR Sarcopsídio 
+TR Sarquinita 
+TR Scarbroíta 
+TR Scawtyíta 
+TR Scheelita 
+TR Schmitterita 
+TR Schoenfliesita 
+TR Schoepita 
+TR Scholzita 
+TR Schorlonita 
+TR Schortlomita 
+TR Schreibersita 
+TR Schuilingita 
+TR Scorzalita 
+TR Seinajokita 
+TR Selenita 
+TR Semseyíta 
+TR Senamortita 
+TR Senaíta 
+TR Senegalita 
+TR Sengierita 
+TR Sepiolita 
+TR Sergeevita 
+TR Sericita 
+TR Serpentina 
+TR Shadlunita 
+TR Shannonita 
+TR Shigaíta 
+TR Shortita 
+TR Shungita 
+TR Siderita 
+TR Siegenita 
+TR Silicatos 
+TR Sillimanita 
+TR Silvanita 
+TR Silvinita 
+TR Silvita 
+TR Sincosita 
+TR Sinhalita 
+TR Sinjarita 
+TR Sinnerita 
+TR Skalodovskita 
+TR Skuterudita 
+TR Smithsonita 
+TR Smythita 
+TR Sodalita 
+TR Sohngeíta 
+TR Solongoíta 
+TR Sophiíta 
+TR Souzalita 
+TR Sperrylita 
+TR Spurrita 
+TR Steenstrupina 
+TR Stephanita 
+TR Sternbergita 
+TR Stevensita 
+TR Stichtita 
+TR Stillwellita 
+TR Stishovita 
+TR Stolzita 
+TR Strelkinita 
+TR Strengita 
+TR Stromeyerita 
+TR Struvita 
+TR Sturtita 
+TR Suanita 
+TR Sudoíta 
+TR Sugilita 
+TR Sulfatos 
+TR Sulfetos 
+TR Sulfetos Metálicos 
+TR Sulfossais 
+TR Sulvanita 
+TR Surinamita 
+TR Susanita 
+TR Svanbergita 
+TR Svetlozarita 
+TR Szaibelyíta 
+TR Taafeíta 
+TR Tacaranita 
+TR Taenita 
+TR Talco 
+TR Talcusita 
+TR Talmessita 
+TR Talnakhita 
+TR Tamarugita 
+TR Tantalatos 
+TR Tantalita 
+TR Tanzanita 
+TR Tapiolita 
+TR Taquidrita 
+TR Teallita 
+TR Tecollita 
+TR Tefroíta 
+TR Telargpalita 
+TR Teluretos 
+TR Telurita 
+TR Telurobismutita 
+TR Tennantita 
+TR Termonatita 
+TR Terras Raras 
+TR Teschemacherita 
+TR Tetradimita 
+TR Tetraedrita 
+TR Thalenita 
+TR Thalfenisita 
+TR Thenardita 
+TR Theophrastita 
+TR Thimolita 
+TR Thomasclarkita 
+TR Thomsenolita 
+TR Thomsonita 
+TR Thortveitita 
+TR Thoureaulita 
+TR Thulita 
+TR Tienshanita 
+TR Tincalcomita 
+TR Tirodita 
+TR Titanita 
+TR Titanoaugita 
+TR Titanomaghemita 
+TR Titanomagnetita 
+TR Tlapallita 
+TR Tobermorita 
+TR Todorokita 
+TR Tolovkita 
+TR Tomichita 
+TR Topázio 
+TR Torita 
+TR Tosudita 
+TR Trembathita 
+TR Tremolita 
+TR Trevorita 
+TR Tricalcita 
+TR Tridimita 
+TR Trifilita 
+TR Trimerita 
+TR Triplita 
+TR Triploidita 
+TR Tripuíta 
+TR Trogerita 
+TR Troilita 
+TR Trolleíta 
+TR Trona 
+TR Trípoli 
+TR Tschermakita 
+TR Tschermiguita 
+TR Tucholita 
+TR Tugtupita 
+TR Tungstenita 
+TR Turingita 
+TR Turmalina 
+TR Turquesa 
+TR Tvalchrelidzeíta 
+TR Tyuyamunita 
+TR Ulexita 
+TR Ullmannita 
+TR Ulvoespinélio 
+TR Umanguita 
+TR Umohoita 
+TR Uraninita 
+TR Uranita 
+TR Uranocircita 
+TR Uranofânio 
+TR Urvantsevita 
+TR Utunita 
+TR Uvarovita 
+TR Uvita 
+TR Vaesita 
+TR Valentinita 
+TR Valleriíta 
+TR Vanadinita 
+TR Vanmeerscheíta 
+TR Variscita 
+TR Varlamoffita 
+TR Vaterita 
+TR Vermiculita 
+TR Vesignieíta 
+TR Vesuvianita 
+TR Vigezzita 
+TR Villamaninita 
+TR Villiaumita 
+TR Violarita 
+TR Viridina 
+TR Viseíta 
+TR Vitusita 
+TR Vivianita 
+TR Volborthita 
+TR Volframita 
+TR Voltaíta 
+TR Vonsenita 
+TR Vuonnemita 
+TR Vysotskita 
+TR Wadeita 
+TR Wagnerita 
+TR Waimirita 
+TR Wairakita 
+TR Wakabayashilita 
+TR Wardita 
+TR Wavellita 
+TR Weberita 
+TR Websterita 
+TR Weddelita 
+TR Weeksita 
+TR Wellsita 
+TR Weloganita 
+TR Weloganita 
+TR Wenkita 
+TR Westerveldita 
+TR Westgrenita 
+TR Whewellita 
+TR Whitlockita 
+TR Wickmanita 
+TR Willemita 
+TR Winstanleyita 
+TR Wittichenita 
+TR Wodginita 
+TR Wolfeíta 
+TR Wollastonita 
+TR Wulfenita 
+TR Wurtzita 
+TR Wustita 
+TR Wyllieíta 
+TR Xenotímio 
+TR Yugawaralita 
+TR Zajacita 
+TR Zavaritiskita 
+TR Zetkzerita 
+TR Zeunerita 
+TR Zeólita 
+TR Zincita 
+TR Zinkenita 
+TR Zinnwaldita 
+TR Zippeíta 
+TR Zirconita 
+TR Zirconolita 
+TR Zircão 
+TR Zirkelita 
+TR Zirsinalita 
+TR Zoisita 
+TR Zorgita 
+TR Zorita 
+TR Zumita 
+TR Zuniíta 
+TR Zussmanita 
+TR Zwieselita 
+ 
+TA Oceanografia 
+ 
+DS Estudo dos oceanos, incluindo seus aspectos físicos, químicos, biológicos e geológicos, de uma forma mais restrita, o estudo dos ambientes marinhos (Bates and Jackson, 1987, p.456). 
+ 
+TR Acústica 
+TR Água do Mar 
+TR Atóis 
+TR Batimetria 
+TR Eustasia 
+TR Maremoto 
+TR Nódulos Submarinos 
+TR Oceanos 
+TR Paleobatimetria 
+TR Paleoceanografia 
+TR Paleossalinidade 
+ 
+TA Paleoclimatologia 
+ 
+DS Estudo dos paleoclimas e das causas de suas variações, através do tempo geológico, envolvendo interpretação de depósitos glaciais, fósseis e sedimentológicas, etc (Bates and Jackson, 1987, p.476). 
+ 
+TA Paleoecologia 
+ 
+DS Estudo do relacionamento entre organismos fósseis e seus ambientes, a sua morte, seu sepultamento e história pós-sepultamento no seu passado geológico, baseado na sua fauna e flora fóssil e sua posição estratigráfica (Bates and Jackson, 1987, p.476). 
+ 
+TR Bioestratigrafia 
+TR Biogeografia 
+TR Cronoestratigrafia 
+TR Deriva Continental 
+TR Gondwana 
+TR Litoestratigrafia 
+TR Paleoambientes 
+ 
+TA Paleogeografia 
+ 
+DS O estudo e descrição da Geografia Física do passado geológico, tal como a reconstrução histórica do padrão da superfície terrestre ou de uma dada área num determinado tempo do passado geológico, ou o estudo de sucessivas mudanças da superfície durante o tempo geológico (Bates and Jackson, 1987, p.477). 
+ 
+TR Bioestratigrafia 
+TR Biogeografia 
+TR Cronoestratigrafia 
+TR Deriva Continental 
+TR Gondwana 
+TR Litoestratigrafia 
+TR Paleoambientes 
+ 
+TA Paleomagnetismo 
+ 
+DS Estudo do magnetismo remanescente natural visando a determinação da intensidade e da direção do campo magnético da Terra no passado geológico (Bates and Jackson, 1987, p.477). 
+ 
+TA Paleontologia 
+ 
+DS É o estudo da vida no tempo pretérito, baseado em fósseis de plantas e animais, incluindo filogenia, suas relações com as plantas e animais atuais, com os ambientes e com a cronologia da história da Terra (Bates and Jackson, 1987, p. 477). 
+ 
+TR Fungos 
+TR Micropaleontologia 
+TR Monera 
+TR Paleobotânica 
+TR Paleoicnologia 
+TR Paleozoologia 
+TR Protista 
+ 
+TA Pedologia 
+ 
+DS Ciência que estuda a origem e o desenvolvimento dos solos. Seu campo se estudo vai desde a superfície do solo até a rocha decomposta (Guerra, 1978, p.316). 
+ 
+TR Iluviação 
+TR Intemperismo 
+TR Laterita 
+TR Laterização 
+TR Latossolos 
+TR Mapa de Solos 
+TR Paleossolos 
+TR Pedogênese 
+TR Pedogeoquímica 
+TR Solos 
+TR Usos do solo 
+ 
+TA Petrografia 
+ 
+DS É o ramo da Geologia que trata da descrição e classificação sistemática das rochas, em particular, das rochas ígneas e metamórficas, por meio de análise microscópica de seções delgadas (Bates and Jackson, 1987, p.496). 
+ 
+TR Adakito 
+TR Adamelito 
+TR Agalmatolito 
+TR Agpaíticas 
+TR Agpaíto 
+TR Akerito 
+TR Alaskito 
+TR Albertito 
+TR Albitito 
+TR Alcali-Basalto 
+TR Alcali-Diorito 
+TR Alcali-Gabro 
+TR Alcali-Granito 
+TR Alcali-Sienito 
+TR Alcalinas 
+TR Allivalito 
+TR Alnoíto 
+TR Anatexito 
+TR Andesito 
+TR Andesito Basáltico 
+TR Andesito Pórfiro 
+TR Anfibolito 
+TR Ankaramito 
+TR Ankaratrito 
+TR Anortosito 
+TR Anortosito Gabróico 
+TR Aplito 
+TR Apogranito 
+TR Appinito 
+TR Ardósia 
+TR Arterito 
+TR Astrofilito 
+TR Augengnaisse 
+TR Augitito 
+TR Bahiaíto 
+TR Banatito 
+TR Basalto 
+TR Basalto Tholeiítico 
+TR Basanito 
+TR Basálticas 
+TR Bebedourito 
+TR Biotitito 
+TR Blastomilonito 
+TR Boninito 
+TR Bostonito 
+TR Bronzitito 
+TR Básicas 
+TR Básicas Alcalinas 
+TR Básicas Ultrabásicas 
+TR Calcialcalinas 
+TR Calcigranito 
+TR Calcissilicáticas 
+TR Calcoxisto 
+TR Caldasito 
+TR Camptonito 
+TR Canga 
+TR Carbonatito 
+TR Cataclasito 
+TR Charnockito 
+TR Charnockíticas 
+TR Cinerito 
+TR Condrito 
+TR Cornubianito 
+TR Crinanito 
+TR Cromitito 
+TR Dacito 
+TR Dacito Pórfiro 
+TR Diabásio 
+TR Diabásio Pórfiro 
+TR Diatomito 
+TR Diopsidito 
+TR Diorito 
+TR Diorito Pórfiro 
+TR Dolerito 
+TR Dolerito Tholeiítico 
+TR Dolomito 
+TR Dunito 
+TR Eclogito 
+TR Ectinito 
+TR Efusivas 
+TR Enclave 
+TR Enderbito 
+TR Epidiorito 
+TR Escarnito 
+TR Esferulito 
+TR Espilito 
+TR Essexito 
+TR Esteatito 
+TR Eulysito 
+TR Evaporitos 
+TR Fanglomerado 
+TR Felsito 
+TR Fenito 
+TR Fergusito 
+TR Ferricrito 
+TR Ferrodiorito 
+TR Filito 
+TR Filonito 
+TR Folhelho 
+TR Folhelho Betuminoso 
+TR Fonolito 
+TR Foscorito 
+TR Fosforito 
+TR Foyaíto 
+TR Fulgurito 
+TR Félsicas 
+TR Gabro 
+TR Gabro Anortosítico 
+TR Gnaisse 
+TR Gnaisse Bandado 
+TR Gnaíssicas 
+TR Gondito 
+TR Granito 
+TR Granitóides 
+TR Granodiorito 
+TR Granulito 
+TR Granulíticas 
+TR Graníticas 
+TR Graúvaca 
+TR Greisen 
+TR Harzburgito 
+TR Hipabissais 
+TR Hiperaluminosas 
+TR Hornblendito 
+TR Hornfels 
+TR Hornfelsito 
+TR Ignimbrito 
+TR Ijolito 
+TR Impactito 
+TR Intermediárias 
+TR Intrusivas 
+TR Inundito 
+TR Itabirito 
+TR Itacolomito 
+TR Jacupiranguito 
+TR Jacutinga 
+TR Kaimraíto 
+TR Kamafugito 
+TR Karito 
+TR Kentallenito 
+TR Kersantito 
+TR Khondalito 
+TR Kimberlito 
+TR Kimuraíto 
+TR Kinzigito 
+TR Komatiito 
+TR Lamproíto 
+TR Lamprófiro 
+TR Larvikito 
+TR Laterito 
+TR Latito 
+TR Leptito 
+TR Leucitito 
+TR Leucogranito 
+TR Lherzolito 
+TR Limburgito 
+TR Listvanito 
+TR Litchfieldito 
+TR Litologia 
+TR Lápilli 
+TR MORB 
+TR Madupito 
+TR Magmáticas 
+TR Malignito 
+TR Mangerito 
+TR Marauíto 
+TR Melilitito 
+TR Melilitolito 
+TR Melteigito 
+TR Meláfiro 
+TR Metabasalto 
+TR Metabasito 
+TR Metabásicas 
+TR Metacalcário 
+TR Metachert 
+TR Metaconglomerado 
+TR Metadacito 
+TR Metadiabásio 
+TR Metadiorito 
+TR Metagabro 
+TR Metagranito 
+TR Metagraúvaca 
+TR Metaluminosas 
+TR Metamórficas 
+TR Metandesito 
+TR Metanortosito 
+TR Metapelito 
+TR Metaperidotito 
+TR Metapiroxenito 
+TR Metaplutônicas 
+TR Metarcósio 
+TR Metarenito 
+TR Metarriolito 
+TR Metasiltito 
+TR Metassedimentares 
+TR Metassedimentos 
+TR Metassomáticas 
+TR Metatufo 
+TR Metaultrabásicas 
+TR Metavulcânicas 
+TR Metaígneas 
+TR Micaxisto 
+TR Microdiorito 
+TR Microestrutural 
+TR Microgabro 
+TR Microgranito 
+TR Micropegmatito 
+TR Microsienito 
+TR Migmatiticas 
+TR Migmatito 
+TR Migmatização 
+TR Milonito 
+TR Minette 
+TR Mirmequita 
+TR Monchiquito 
+TR Monzodiorito 
+TR Monzogabro 
+TR Monzogranito 
+TR Monzonito 
+TR Mugearito 
+TR Máficas 
+TR Mármore 
+TR Naujaito 
+TR Nefelinasienito 
+TR Nefelinito 
+TR Nefelínicas 
+TR Nordmarkito 
+TR Norito 
+TR Novaculito 
+TR Oceanito 
+TR Ofiocalcito 
+TR Ofiolito 
+TR Ofito 
+TR Oleígenas 
+TR Olivinamelilito 
+TR Olivinito 
+TR Ortoanfibolito 
+TR Ortognaisse 
+TR Ortopiroxenito 
+TR Paisanito 
+TR Palagonito 
+TR Pantellerito 
+TR Paragnaisse 
+TR Paragênese 
+TR Paranfibolito 
+TR Pedra-Pomes 
+TR Pegmatito 
+TR Pelito 
+TR Pencatito 
+TR Peralcalinas 
+TR Peraluminosas 
+TR Peridotito 
+TR Perlito 
+TR Petrofabric 
+TR Petrofísica 
+TR Picrito 
+TR Picrito Pórfiro 
+TR Piroclásticas 
+TR Piroxenito 
+TR Plagioclasito 
+TR Plutônicas 
+TR Polzenito 
+TR Potássicas 
+TR Pseudotaquilito 
+TR Ptilolito 
+TR Pulaskito 
+TR Pórfiro 
+TR Púmice 
+TR Quartzito 
+TR Quartzo Pórfiro 
+TR Queluzito 
+TR Rapakivi 
+TR Ridingito 
+TR Riodacito 
+TR Riolito 
+TR Riolito Pórfiro 
+TR Ritmito 
+TR Rodingito 
+TR Rudito 
+TR Saponito 
+TR Sedimentares 
+TR Serpentinito 
+TR Shonkinito 
+TR Shoshonito 
+TR Sienito 
+TR Sienito Pórfiro 
+TR Silicatos 
+TR Silicáticas 
+TR Siltito 
+TR Sismito 
+TR Subalcalinas 
+TR Subvulcânicas 
+TR Sílex 
+TR Tachilito 
+TR Taconito 
+TR Tactito 
+TR Tefrito 
+TR Tempestito 
+TR Teralito 
+TR Teschenito 
+TR Texturas 
+TR Tholeiíticas 
+TR Tholeíito 
+TR Tilito 
+TR Tinguaíto 
+TR Tonalito 
+TR Tonalito Gnaisse 
+TR Traquiandesito 
+TR Traquibasalto 
+TR Traquidacito 
+TR Traquidolerito 
+TR Traquito 
+TR Travertino 
+TR Troctólito 
+TR Trondhjemito 
+TR Trípoli 
+TR Tufito 
+TR Tufo 
+TR Tufo Andesítico 
+TR Tufo Riolítico 
+TR Turbidito 
+TR Turmalinito 
+TR Ugandito 
+TR Ultrabasito 
+TR Ultrabásicas 
+TR Ultrabásicas-Alcalinas 
+TR Ultramilonito 
+TR Ultramáficas 
+TR Ultrapotássicas 
+TR Urtito 
+TR Varvito 
+TR Veios 
+TR Vidro Vulcânico 
+TR Vogesito 
+TR Vulcanoclásticas 
+TR Vulcanossedimentares 
+TR Vulcânicas 
+TR Websterito 
+TR Xenólito 
+TR Xisto 
+TR Xisto Azul 
+TR Xisto Grafitoso 
+TR Xisto Verde 
+TR Ácidas 
+TR Ígneas 
+ 
+TA Petrologia 
+ 
+DS Diz-se do ramo da Geologia que se ocupa com a origem, ocorrência, estrutura e história das rochas, em particular, das rochas ígneas e metamórficas (Bates and Jackson, 1987, p. 497). 
+ 
+TR Acidas 
+TR Adakito 
+TR Adamelito 
+TR Agalmatolito 
+TR Agpaito 
+TR Agpaíticas 
+TR Akerito 
+TR Alaskito 
+TR Albertito 
+TR Albitito 
+TR Albitização 
+TR Alcali-Basalto 
+TR Alcali-Diorito 
+TR Alcali-Gabro 
+TR Alcali-Granito 
+TR Alcali-Sienito 
+TR Alcalinas 
+TR Allivalito 
+TR Alnoíto 
+TR Anatexia 
+TR Anatexito 
+TR Andesito 
+TR Andesito Basáltico 
+TR Andesito Pórfiro 
+TR Anfibolito 
+TR Ankaramito 
+TR Ankaratrito 
+TR Anortosito 
+TR Anortosito Gabróico 
+TR Anquimetamorfismo 
+TR Aplito 
+TR Apogranito 
+TR Appinito 
+TR Ardósia 
+TR Arterito 
+TR Assimilação 
+TR Astrofilito 
+TR Augengnaisse 
+TR Augitito 
+TR Bahiaíto 
+TR Banatito 
+TR Basalticas 
+TR Basalto 
+TR Basalto Tholeiítico 
+TR Basanito 
+TR Bebedourito 
+TR Biotitito 
+TR Blastomilonito 
+TR Boninito 
+TR Bostonito 
+TR Bronzitito 
+TR Básicas 
+TR Básicas Alcalinas 
+TR Básicas Ultrabásicas 
+TR Calcialcalinas 
+TR Calcigranito 
+TR Calcissilicáticas 
+TR Calcoxisto 
+TR Caldasito 
+TR Camptonito 
+TR Canga 
+TR Carbonatito 
+TR Cataclasito 
+TR Charnockito 
+TR Charnockíticas 
+TR Cinerito 
+TR Condrito 
+TR Cornubianito 
+TR Crinanito 
+TR Cristalização Fracionada 
+TR Cromitito 
+TR Dacito 
+TR Dacito Pórfiro 
+TR Diabásio 
+TR Diabásio Pórfiro 
+TR Diatomito 
+TR Diferenciação Magmática 
+TR Diopsidito 
+TR Diorito 
+TR Diorito Pórfiro 
+TR Dolerito 
+TR Dolerito Tholeiítico 
+TR Dolomito 
+TR Dunito 
+TR Eclogito 
+TR Ectinito 
+TR Efusivas 
+TR Elementos Maiores 
+TR Elementos Menores 
+TR Elementos Traços 
+TR Enclave 
+TR Enderbito 
+TR Epidiorito 
+TR Escarnito 
+TR Esferulito 
+TR Espilito 
+TR Essexito 
+TR Esteatito 
+TR Eulysito 
+TR Fanglomerado 
+TR Feldspatização 
+TR Felsito 
+TR Fenito 
+TR Fergusito 
+TR Ferricrito 
+TR Ferrodiorito 
+TR Filito 
+TR Filonito 
+TR Folhelho 
+TR Folhelho Betuminoso 
+TR Fonolito 
+TR Foscorito 
+TR Fosforito 
+TR Foyaíto 
+TR Fulgurito 
+TR Fusão Parcial 
+TR Fácies Metamórficos 
+TR Félsicas 
+TR Gabro 
+TR Gabro Anortosítico 
+TR Gnaisse 
+TR Gnaisse Bandado 
+TR Gnaíssicas 
+TR Granitização 
+TR Granito 
+TR Granitóides 
+TR Granodiorito 
+TR Granulito 
+TR Granulíticas 
+TR Graníticas 
+TR Graúvaca 
+TR Greisen 
+TR Greisenização 
+TR Harzburgito 
+TR Hibridização 
+TR Hipabissais 
+TR Hiperaluminosas 
+TR Hiperstinização 
+TR Hornblendito 
+TR Hornfels 
+TR Hornfelsito 
+TR Ignimbrito 
+TR Ijolito 
+TR Impactito 
+TR Inclusões Fluídas 
+TR Intermediárias 
+TR Intrusivas 
+TR Inundito 
+TR Itabirito 
+TR Itacolomito 
+TR Jacupiranguito 
+TR Jacutinga 
+TR Kaimraito 
+TR Kamafugito 
+TR Karito 
+TR Kentallenito 
+TR Kersantito 
+TR Khondalito 
+TR Kimberlito 
+TR Kimuraíto 
+TR Kinzigito 
+TR Komatiito 
+TR Lamproito 
+TR Lamprófiro 
+TR Larvikito 
+TR Laterito 
+TR Latito 
+TR Lava 
+TR Leptito 
+TR Leucitito 
+TR Leucogranito 
+TR Lherzolito 
+TR Limburgito 
+TR Listvanito 
+TR Litchfieldito 
+TR Litologia 
+TR Lápilli 
+TR MORB (Mid Ocean Ridge Basalt) 
+TR Madupito 
+TR Magmatismo 
+TR Magmáticas 
+TR Malignito 
+TR Mangerito 
+TR Marauito 
+TR Melilitolito 
+TR Melteigito 
+TR Meláfiro 
+TR Metabasalto 
+TR Metabasito 
+TR Metabásicas 
+TR Metacalcário 
+TR Metachert 
+TR Metaconglomerado 
+TR Metadacito 
+TR Metadiabásio 
+TR Metadiorito 
+TR Metagabro 
+TR Metagranito 
+TR Metagraúvaca 
+TR Metaluminosas 
+TR Metamorfismo Dinâmico 
+TR Metamorfismo Regional 
+TR Metamorfismo de Contato 
+TR Metamórficas 
+TR Metandesito 
+TR Metanortosito 
+TR Metapelito 
+TR Metaperidotito 
+TR Metapiroxenito 
+TR Metaplutônicas 
+TR Metarcósio 
+TR Metarenito 
+TR Metarriolito 
+TR Metasiltito 
+TR Metassedimentares 
+TR Metassedimentos 
+TR Metassomatismo 
+TR Metassomáticas 
+TR Metatufo 
+TR Metaultrabásicas 
+TR Metavulcânicas 
+TR Metaígneas 
+TR Micaxisto 
+TR Microclinização 
+TR Microdiorito 
+TR Microgabro 
+TR Microgranito 
+TR Micropegmatito 
+TR Microsienito 
+TR Migmatito 
+TR Migmatização 
+TR Migmatíticas 
+TR Milonito 
+TR Minette 
+TR Mirmequita 
+TR Mistura de Magma 
+TR Monchiquito 
+TR Monzodiorito 
+TR Monzogabro 
+TR Monzogranito 
+TR Monzonito 
+TR Mugearito 
+TR Máficas 
+TR Mármore 
+TR Naujaito 
+TR Nefelinasienito 
+TR Nefelinito 
+TR Nefelínicas 
+TR Nordmarkito 
+TR Norito 
+TR Oceanito 
+TR Ofiocalcito 
+TR Ofiolito 
+TR Ofito 
+TR Oleígenas 
+TR Olivinamelilito 
+TR Olivinito 
+TR Ortoanfibolito 
+TR Ortognaisse 
+TR Ortopiroxenito 
+TR Paisanito 
+TR Palagonito 
+TR Pantellerito 
+TR Paragnaisse 
+TR Paragênese 
+TR Paranfibolito 
+TR Pedra-Pomes 
+TR Pegmatito 
+TR Pencatito 
+TR Peralcalinas 
+TR Peraluminosas 
+TR Peridotito 
+TR Perlito 
+TR Petrofabric 
+TR Petrofísica 
+TR Petrogênese 
+TR Petroquímica 
+TR Picrito 
+TR Picrito-Pórfiro 
+TR Piroclásticas 
+TR Piroxenito 
+TR Plagioclasito 
+TR Plutônicas 
+TR Polzenito 
+TR Potássicas 
+TR Processos Hidrotermais 
+TR Pseudotaquilito 
+TR Ptilolito 
+TR Pulaskito 
+TR Pórfiro 
+TR Púmice 
+TR Quartzito 
+TR Quartzo Pórfiro 
+TR Queluzito 
+TR Rapakivi 
+TR Ridingito 
+TR Riodacito 
+TR Riolito 
+TR Riolito Pórfiro 
+TR Ritmito 
+TR Rodingito 
+TR Saponito 
+TR Serpentinito 
+TR Serpentinização 
+TR Shonkinito 
+TR Shoshonito 
+TR Sienitização 
+TR Sienito 
+TR Sienito Pórfiro 
+TR Silicificação 
+TR Silicáticas 
+TR Sismito 
+TR Subalcalinas 
+TR Subvulcânicas 
+TR Sílex 
+TR Tactito 
+TR Tefrito 
+TR Tempestito 
+TR Teralito 
+TR Teschenito 
+TR Tholeiíticas 
+TR Tholeiíto 
+TR Tinguaíto 
+TR Tonalito 
+TR Tonalito Gnaisse 
+TR Traquiandesito 
+TR Traquibasalto 
+TR Traquidacito 
+TR Traquidolerito 
+TR Traquito 
+TR Troctolito 
+TR Trondhjemito 
+TR Tufito 
+TR Tufo 
+TR Tufo Andesítico 
+TR Tufo Riolítico 
+TR Turbidito 
+TR Turmalinito 
+TR Ugandito 
+TR Ultrabasito 
+TR Ultrabásicas 
+TR Ultrabásicas-Alcalinas 
+TR Ultramilonito 
+TR Ultramáficas 
+TR Ultrapotássicas 
+TR Urtito 
+TR Varvito 
+TR Veios 
+TR Vidro Vulcânico 
+TR Vogesito 
+TR Vulcanismo 
+TR Vulcanossedimentares 
+TR Vulcânicas 
+TR Websterito 
+TR Xenólito 
+TR Xisto 
+TR Xisto Azul 
+TR Xisto Grafitoso 
+TR Xisto Verde 
+TR Ígneas 
+ 
+TA Petrologia Sedimentar 
+ 
+DS Estudo da composição, características e origem dos sedimentos e das rochas sedimentares (Bates and Jackson, 1987, p.598). 
+ 
+TR Antracito 
+TR Arcósio 
+TR Arenito 
+TR Arenito Betuminoso 
+TR Argilito 
+TR Arredondamento 
+TR Autigênese 
+TR Beachrock 
+TR Bentonito 
+TR Biocalcarenito 
+TR Biomicrito 
+TR Bioturbação 
+TR Brecha 
+TR Brecha Tectônica 
+TR Brecha Vulcânica 
+TR Calcarenito 
+TR Calcario Magnesiano 
+TR Calcilutito 
+TR Calcirudito 
+TR Calcrete 
+TR Calcário 
+TR Calcário Betuminoso 
+TR Calcário Dolomítico 
+TR Calcário Oolítico 
+TR Caliche 
+TR Carbonáticas 
+TR Carvão 
+TR Carvão Betuminoso 
+TR Carvão de Coque 
+TR Caustobiólito 
+TR Chert 
+TR Cimento 
+TR Clásticas 
+TR Conglomerado 
+TR Coquina 
+TR Diagênese 
+TR Diamictito 
+TR Dolomitização 
+TR Esfericidade 
+TR Estilólitos 
+TR Evaporitos 
+TR Fácies Sedimentares 
+TR Granulometria 
+TR Jasperóide 
+TR Jaspilito 
+TR Lamito 
+TR Lenhito 
+TR Marga 
+TR Marna 
+TR Micrito 
+TR Microbrecha 
+TR Microfácies 
+TR Mixtito 
+TR Molassa 
+TR Neomorfismo 
+TR Novaculito 
+TR Oncóides 
+TR Ortoquartzito 
+TR Oóides 
+TR Oólitos 
+TR Paragênese 
+TR Pelito 
+TR Pelóides 
+TR Petrogenese 
+TR Pisólitos 
+TR Porcelamito 
+TR Porosidade 
+TR Proveniência 
+TR Psamito 
+TR Radiolarito 
+TR Refletância 
+TR Rudito 
+TR Sapropelito 
+TR Saprólito 
+TR Sedimentares 
+TR Sedimentos 
+TR Silcreto 
+TR Silexito 
+TR Siltito 
+TR SubGraúvaca 
+TR Subarcósio 
+TR Taconito 
+TR Texturas 
+TR Tilito 
+TR Tilóide 
+TR Travertino 
+TR Turbidito 
+TR Turfa 
+TR Vulcanoclásticas 
+ 
+TA Planetologia 
+ 
+Termo originalmente usado para o estudo e interpretação das feições superficiais dos planetas e seus satélites naturais e mais tarde, para o estudo de matéria condensada do sitema solar, incluindo planetas, satélites, asteróides, meteoritos e material interplanetário (Bates and Jackson, 1987, p. 508). 
+ 
+TR Asteróides 
+TR Meteorito 
+ 
+TA Processamento de Dados 
+ 
+DS Manipulação de dados executados pelos computa-dores para transforma-los em um resultado desejado (Microsoft Press, 1998). 
+ 
+TR Análise de Sistemas 
+TR Base de Dados 
+TR Hardware 
+TR Linguagens 
+TR Processamento Gráfico 
+TR Programação 
+TR Rede 
+TR Sistemas Operacionais 
+TR Software 
+TR Teleprocessamento 
+ 
+TA Química 
+ 
+DS Ciência em que se estuda a estrutura das substâncias, correlacionando-a com as propriedades macroscópicas e se investigam as transformações destas substâncias (Ferreira, 1975, p.1184). 
+ 
+TR Análise Química 
+TR Cromatografia 
+TR Elementos Maiores 
+TR Elementos Menores 
+TR Elementos Traços 
+TR Petróleo 
+ 
+TA Recursos Energéticos 
+ 
+DS Conjunto de energias ou das fontes de energia presentes na natureza e conhecidas que por aplicação de técnicas conhecidas ou desenvolvíveis em futuro previsível, se podem tornar economicamente exploráveis (Terminologia, 1986, p. ). 
+ 
+TR Antracito 
+TR Arenito Betuminoso 
+TR Asfalto 
+TR Betume 
+TR Carvão 
+TR Carvão Betuminoso 
+TR Carvão Mineral 
+TR Carvão Vegetal 
+TR Carvão de Coque 
+TR Combustíveis 
+TR Energia Elétrica 
+TR Folhelho Betuminoso 
+TR Fusênio 
+TR Gás 
+TR Hidrocarbonetos 
+TR Hidroelétrica 
+TR Hulha 
+TR Linhito 
+TR Oleígenas 
+TR Olióca 
+TR Petroquímica 
+TR Petróleo 
+TR Refletância 
+TR Reservatório 
+TR Termoelétrica 
+TR Turfa 
+ 
+TA Recursos Hídricos 
+ 
+DS Numa determinada região ou bacia, a quantidade de águas superficiais ou subterrâneas, disponível para qualquer uso (Batalha, 1986, p.98). 
+ 
+TR Água 
+TR Água Mineral 
+TR Água Subterrânea 
+TR Água Termal 
+TR Aquíferos 
+TR Qualidade da Água 
+TR Reservatório 
+TR Usos da Água 
+ 
+TA Reologia 
+ 
+DS Estudo do fluxo e deformação da matéria (Bates and Jackson, 1987, p.566). 
+ 
+TA Sedimentologia 
+ 
+DS Estudo científico das rochas sedimentares pelos quais elas são formadas; descrição, classificação, origem e interpretação dos sedimentos (Bates and Jackson, 1987, p.599). 
+ 
+TR Aluvião 
+TR Ambientes de Sedimentação 
+TR Antracito 
+TR Arcósio 
+TR Areia 
+TR Areia Ilmenítica 
+TR Areia Monazítica 
+TR Arenito 
+TR Arenito Betuminoso 
+TR Argila 
+TR Argilito 
+TR Arredondamento 
+TR Atóis 
+TR Autigênese 
+TR Beachrock 
+TR Bentonito 
+TR Biocalcarenito 
+TR Bioermas 
+TR Biomicrito 
+TR Bioturbação 
+TR Brecha 
+TR Brecha Tectônica 
+TR Brecha Vulcânica 
+TR Calcarenito 
+TR Calcificação 
+TR Calcilutito 
+TR Calcirudito 
+TR Calcrete 
+TR Calcário 
+TR Calcário Betuminoso 
+TR Calcário Dolomítico 
+TR Calcário Magnesiano 
+TR Calcário Oolítico 
+TR Caliche 
+TR Carbonáticas 
+TR Carst 
+TR Carvao 
+TR Carvão Betuminoso 
+TR Carvão de Coque 
+TR Cascalheira 
+TR Cascalho 
+TR Caustobiólito 
+TR Chert 
+TR Ciclotema 
+TR Cimento 
+TR Clásticas 
+TR Concheiro 
+TR Concreção Arenosa 
+TR Conglomerado 
+TR Coquina 
+TR Costa 
+TR Delta 
+TR Depósitos Aluvionares 
+TR Depósitos Continentais 
+TR Depósitos Eólicos 
+TR Depósitos Fluviais 
+TR Depósitos Glaciais 
+TR Depósitos Lacustres 
+TR Depósitos Lagunares 
+TR Depósitos Marinhos 
+TR Depósitos Praiais 
+TR Depósitos Recentes 
+TR Depósitos Sedimentares 
+TR Desertos 
+TR Diagênese 
+TR Diamictito 
+TR Dolomitização 
+TR Dunas 
+TR Erosão 
+TR Esfericidade 
+TR Estilólitos 
+TR Estruturas Sedimentares 
+TR Estuário 
+TR Evaporitos 
+TR Folhelho Betuminoso 
+TR Fácies Sedimentares 
+TR Granulometria 
+TR Jasperóide 
+TR Jaspilito 
+TR Lagoas 
+TR Lagos 
+TR Lagunas 
+TR Lamito 
+TR Lenhito 
+TR Loess 
+TR Mangue 
+TR Marga 
+TR Marna 
+TR Minerais Pesados 
+TR Minerais de Argila 
+TR Mixtito 
+TR Molassa 
+TR Neomorfismo 
+TR Novaculito 
+TR Oncóides 
+TR Oolitização 
+TR Ortoquartzito 
+TR Oóides 
+TR Oólitos 
+TR Paleoambientes 
+TR Paleocorrentes 
+TR Paleosismicidade 
+TR Paleossalinidade 
+TR Paragênese 
+TR Pelito 
+TR Pelóides 
+TR Permeabilidade 
+TR Pisólitos 
+TR Porcelamito 
+TR Porosidade 
+TR Processos Sedimentares 
+TR Proveniência 
+TR Psamito 
+TR Radiolarito 
+TR Recifes 
+TR Refletância 
+TR Regressão 
+TR Rios 
+TR Rudito 
+TR Sais 
+TR Salmouras 
+TR Sambaquis 
+TR Sapropelito 
+TR Saprólito 
+TR Sedimentares 
+TR Sedimentação 
+TR Sedimentometria 
+TR Sedimentos 
+TR Seixos 
+TR Seixos Facetados 
+TR Silcreto 
+TR Silexito 
+TR Silicificação 
+TR Silte 
+TR Siltito 
+TR Sistemas Deposicionais 
+TR Subarcósio 
+TR Subgraúvaca 
+TR Taconito 
+TR Till 
+TR Tilóide 
+TR Transgressão 
+TR Travertino 
+TR Trípoli 
+TR Turbidito 
+TR Turfa 
+TR Varvito 
+TR Vulcanoclásticas 
+ 
+TA Sensoriamento Remoto 
+ 
+DS Coleta de informações sobre um objeto por meio do registro através de aparelhos sem contato físico com o mesmo. O termo é comumente restrito aos principais métodos que registram energia refletida ou eletromagnética, mais do que aos métodos que envolvem penetração significativa dentro da Terra. As técnicas utilizadas vão desde aparelhos como câmeras, detectores infravermelhos, receptores de freqüência de microondas e sistemas de radar (Bates and Jackson, 1987, p. 560). 
+ 
+TR Análise Digital 
+TR GIS (Geographic Information System) 
+TR Interpretação de Imagens 
+TR Processamento de Imagens 
+ 
+TA Sismologia 
+ 
+DS Estudo dos tremores de terra ocorridos na superfície do globo terrestre (Ferreira, 1975, p.1308). 
+ 
+TR Maremotos 
+TR Paleosismicidade 
+TR Terremotos 
+ 
+TA Tectônica 
+ 
+DS O ramo da Geologia que trata das feições deformacionais e estruturais da crosta terrestre, incluindo as relações mútuas, origem e feições da evolução histórica (Bates and Jackson, 1987, p.675). 
+ 
+TR Arqueamento 
+TR Astenosfera 
+TR Crosta Terrestre 
+TR Deriva Continental 
+TR Epirogênese 
+TR Geodinâmica 
+TR Geotectônica 
+TR Greenstone Belt 
+TR Hot Spot 
+TR Litosfera 
+TR Manto 
+TR Mapa Tectônico 
+TR Mobile Belt 
+TR Neotectônica 
+TR Orogênese 
+TR Paleosismicidade 
+TR Sistema de Dobramentos 
+TR Soerguimento 
+TR Tectonismo 
+TR Tectonoestratigrafia 
+TR Tectonofísica 
+TR Tectonogeologia 
+TR Tectônica de Placas 
+ 
+TA Topografia 
+ 
+DS Representação da configuração de uma porção do terreno com todos os acidentes e objetos que se encontram a sua superfície (Ferreira, 1975, p. 1388). 
+ 
+TA Vulcanologia 
+ 
+DS É o ramo da Geologia que trata dos fenômenos e causas do vulcanismo (Bates and Jackson, 1987, p.727). 
+ 
+TR Água Termal 
+TR Brecha Vulcânica 
+TR Cinza Vulcânica 
+TR Fumarola 
+TR Gases 
+TR Lava 
+TR Vidro Vulcânico 
+TR Vulcanismo 
+TR Vulcões  
+
